@@ -1,11 +1,9 @@
 # 基于机器狗的危险行为预警及看护
 -------------------
 
-- 张淘月 815869083@qq.com
+- Taoyue Zhang (Junior in SUSTech) [@Noname690](https://github.com/Noname690)
 
-- 叶顶强 623289960@qq.com
-
-- 本项目为南方科技大学计算机科学与技术专业创新实践项目，指导老师为于仕琪老师。
+- Dingqiang Ye (Junior in SUSTech) [@Bugjudger](https://github.com/Bugjudger)
 
 - 项目目前进度及效果可见视频：https://www.bilibili.com/video/BV1Wh41127wu?from=search&seid=331279642344468380
 
